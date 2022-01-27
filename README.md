@@ -29,4 +29,6 @@ Timer completed!
 
 ## *Author Name*
 <!--Remove the below lines and add yours -->
+[Vedant Sharma](https://github.com/japneetsingh035)
+
 [JapneetSingh](https://github.com/japneetsingh035)
